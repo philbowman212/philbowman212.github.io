@@ -37,3 +37,7 @@ The SCSS is pre-compiled to `assets/css/main.css`. For styling changes, either:
 ## Content Editing
 
 All content is in `index.html`. Portfolio sections are `<article>` elements with IDs: `intro`, `projects`, `about`, `contact`. Project links point to external GitHub repositories.
+
+## Project management
+
+Mode: `roadmap`. Track work in `ROADMAP.md` when it exists.
